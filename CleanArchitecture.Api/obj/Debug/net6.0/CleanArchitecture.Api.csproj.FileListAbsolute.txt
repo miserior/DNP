@@ -1,0 +1,6 @@
+D:\NET_TUTORIAL\DNP\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net6.0\CleanArchitecture.Api.csproj.AssemblyReference.cache
+D:\NET_TUTORIAL\DNP\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net6.0\CleanArchitecture.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET_TUTORIAL\DNP\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net6.0\CleanArchitecture.Api.AssemblyInfoInputs.cache
+D:\NET_TUTORIAL\DNP\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net6.0\CleanArchitecture.Api.AssemblyInfo.cs
+D:\NET_TUTORIAL\DNP\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net6.0\CleanArchitecture.Api.csproj.CoreCompileInputs.cache
+D:\NET_TUTORIAL\DNP\CleanArchitecture\CleanArchitecture.Api\obj\Debug\net6.0\CleanArchitecture.Api.MvcApplicationPartsAssemblyInfo.cache
